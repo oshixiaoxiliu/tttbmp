@@ -7,8 +7,7 @@
 
 #define MAXCHAR 1000000
 #define MXALINE 1000
-
-bool save24BITImage(const char* path, BMPImage* bmpImg);
+ 
 int totlen ;
 char * buf ;
 void getData(char * path)

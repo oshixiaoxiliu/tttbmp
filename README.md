@@ -1,4 +1,4 @@
-## Hide your code or text in a bmp picture 
+## save your code or text in a bmp picture 
 
 1. put your code or text in main.txt 
 2. make 
